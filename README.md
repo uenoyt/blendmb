@@ -18,7 +18,7 @@ Recent study on microtuble based contractile material is also presented.
 https://uenoyt.github.io/abam/
 
 Japanese presentations are also found on web page at AIST, research institute. 
-[https://staff.aist.go.jp/yutaka.ueno/blendmb/](https://staff.aist.go.jp/yutaka.ueno/blendmb/)
+[https://staff.aist.go.jp/yutaka.ueno/blend/](https://staff.aist.go.jp/yutaka.ueno/blend/)
 
 
 Usage
